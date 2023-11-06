@@ -20,9 +20,9 @@ Here are some ideas to get you started:
    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<!-- <a href="https://github.com/harish-sethuraman/readme-components">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
+</a> -->
 
 <a href="https://github.com/harish-sethuraman/readme-components">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
