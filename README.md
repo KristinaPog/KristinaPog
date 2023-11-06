@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Мои курсы
+
 
 ### Стек технологий
-<img src="https://img.shields.io/badge/HTML5-b0b5a8?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/HTML5-f0f8ff?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-f0f8ff?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/javascript-f0f8ff?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-f0f8ff?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/NodeJS-f0f8ff?style=for-the-badge&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Webpack-f0f8ff?style=for-the-badge&logo=webpack&logoColor=8DD6F9"/> 
