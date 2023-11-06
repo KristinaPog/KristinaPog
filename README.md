@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Стек технологий
-<img src="https://img.shields.io/badge/HTML5-ffdb8f?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/HTML5-b0b5a8?style=for-the-badge&logo=html5&logoColor=E34F26"/>
