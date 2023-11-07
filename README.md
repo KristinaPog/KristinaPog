@@ -10,3 +10,8 @@
 
 ### Стек технологий
 <img src="https://img.shields.io/badge/HTML5-f0f8ff?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-f0f8ff?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/javascript-f0f8ff?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-f0f8ff?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/NodeJS-f0f8ff?style=for-the-badge&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Webpack-f0f8ff?style=for-the-badge&logo=webpack&logoColor=8DD6F9"/> 
+
+### Образование
+:triangular_flag_on_post: 2009 - 2014 гг. Нижегородский государственный педагогический университет им. Козьмы Минина (Мининский университет), Информационные системы и технологии.
+
+:triangular_flag_on_post: 2022 - 2023 гг. Яндекс.Практикум, факультет веб-разработки. 
